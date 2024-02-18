@@ -200,3 +200,4 @@ app = QApplication([])
 window = GraphingCalculator()
 window.show()
 app.exec()
+
